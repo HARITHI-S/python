@@ -1,4 +1,3 @@
- Check if a Number is a Palindrome
 num = int(input("Enter a number: "))
 original = num
 reversed_num = 0
